@@ -50,11 +50,11 @@ Guidance and limitations when using Customer Attributes.
    <td colname="col1"> <p> How many customer attributes am I allowed to use? </p> </td> 
    <td colname="col2"> <p>You can upload hundreds of <span class="filepath"> .csv</span> columns to the customer attribute service. However, when configuring subscriptions and selecting attributes, the following limits apply (per report suite), depending on the solutions you own:</p> <p> 
      <ul>
-     <li>Foundation: 0</li>
-     <li>Select: 3</li>
-     <li>Prime: 15</li>
-     <li>Ultimate: 200</li>
-     <li>Standard: 3 total</li>
+     <li>Analytics Foundation: 0</li>
+     <li>Analytics Select: 3</li>
+     <li>Analytics Prime: 15</li>
+     <li>Analytics Ultimate: 200</li>
+     <li>Analytics Standard: 3 total</li>
      <li>Premium: 200</li>
      <li>Target Standard: 5</li>
      <li>Target Premium: 200</li></ul>
